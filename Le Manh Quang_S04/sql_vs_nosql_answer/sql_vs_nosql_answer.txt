@@ -1,0 +1,13 @@
+Question 1: Social Network System
+
+I would choose NoSQL for a social network system.
+
+Social networks need to store a huge amount of data such as text posts, images, videos, polls, and location data. The structure of this data can change frequently. NoSQL databases are schema-less, which means they allow flexible data structures. They also provide high scalability, making them suitable for handling millions of posts every hour.
+
+
+
+Question 2: Banking Ledger System
+
+I would choose SQL for a banking ledger system.
+
+Banking systems require very high accuracy and data consistency. SQL databases support ACID properties (Atomicity, Consistency, Isolation, Durability), which ensure that financial transactions are processed safely and correctly. This prevents data loss or inconsistent transaction records.
